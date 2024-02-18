@@ -1,0 +1,1 @@
+shoutdown /r /t 0
